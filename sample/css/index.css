@@ -167,3 +167,14 @@ footer h2 {
 footer p {
     margin: 0;
 }
+
+/* Style moveup Button*/
+
+.moveUP{
+    position: fixed;
+    bottom:15px;
+    right: 10px;   
+    color:chocolate
+}
+
+    
